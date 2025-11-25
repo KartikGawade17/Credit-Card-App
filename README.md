@@ -6,11 +6,9 @@ A smart, data-driven credit card recommendation platform built using **Python, P
 ## 🖼️ Project Preview
 
 ### 🎬 Intro Animation  
-*(Replace with your uploaded image)*  
 ![Intro Animation](app_logo.png)
 
 ### 🖥️ Streamlit App Screenshot  
-*(Replace with your app screenshot)*  
 ![App Screenshot](app_ss.png)
 
 ---
